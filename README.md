@@ -1,2 +1,2 @@
 # storyteller
-A story generator for peoples in needs of inspiration.
+A story generator for people in needs of inspiration.
